@@ -1,9 +1,11 @@
-# Página tipo Landing de huddle con una sola sección introductoria
+# Página tipo landing de Huddle con una sola sección introductoria
 
 El desafío es construir esta página tipo landing de Hudle y lograr que se parezca lo más posible al diseño.
 
 - HTML
 - CSS
+
+![desktop-design](https://user-images.githubusercontent.com/112582420/189009621-5626b5c4-2cc4-4bb4-bdaa-79645c2fde43.jpg)
 
 # Guía de Estilo
 
