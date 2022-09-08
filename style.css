@@ -30,7 +30,7 @@ body {
     background: hsl(257, 40%, 49%);
     background-image: url(images/bg-desktop.svg);
     background-position: left;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
